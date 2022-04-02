@@ -178,7 +178,7 @@ def logit_tt(img, y):
 
 
 def main():
-    images, y = generate_image_array('image_bin2.dat')
+    images, y = generate_image_array('image.dat')
     x_n, x_t = average_images(images, y)
     plt.rc('text', usetex=True)
     plt.rc('font', family='serif')
