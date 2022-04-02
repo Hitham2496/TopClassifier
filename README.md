@@ -29,7 +29,7 @@ One can see that the energy in top jets is distributed visibly differently to th
 
 ### Learning Points
 
-I uploaded this project as it originally was created bar a few modifications to ensure compatibility with newer python versions. I was a less experienced programmer and data scientist at the time and thought it would be interesting to upload this project as it was created to highlight things I would change.
+I uploaded this project as it originally was created bar a few (mostly stylistic) modifications to ensure compatibility with newer python versions. I was a less experienced programmer and data scientist at the time and thought it would be interesting to upload this project as it was created to highlight things I would change.
 
 One of the most inconvenient aspects is the specific implementation of the shuffling of the test/train dataset. This means that each time the script is run an untraceably different split is used. To counter this I would shuffle the dataset according to a pseudorandom distribution, whose parameter(s) (namely the seed) can either be set or used to generate multiple runs and take the average.
 
@@ -37,4 +37,4 @@ In producing the data, I would perhaps use a similar format for the variables (b
 
 The machine learning model implemented is very rudimentary and there has been no attempt to test different ML architectures. If repeating this project I would classify the data with several different neural networks, with varying depths and parameters, such that the appropriate architecture can be appropriately chosen after comparison.
 
-There is much more that can be discussed here (e.g. avoiding global variables by reformulating in a more object-oriented manner), however this was an exciting project that enhanced my enthusiasm for complex data analysis. It was a hugely satisfying undertaking, to be able to see the results of the simulations and the deliberation over specific data structures in a visual format and has paved the way to the path I follow now as a PhD candidate.
+There is much more that can be discussed here (e.g. avoiding global variables), however this was an exciting project that enhanced my enthusiasm for complex data analysis. It was a hugely satisfying undertaking, to be able to see the results of the simulations and the deliberation over specific data structures in a visual format and has paved the way to the path I follow now as a PhD candidate.
