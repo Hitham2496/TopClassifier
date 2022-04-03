@@ -1,7 +1,7 @@
 # TopClassifier
 ### Unsupervised Machine Learning to Classify LHC Jets Originating from Top Quark Decays
 
-**PLEASE SCROLL TO THE BOTTOM FOR POINTS GOING FORWARD**
+**PLEASE SCROLL TO [Learning Points](https://github.com/Hitham2496/TopClassifier#learning-points) BOTTOM FOR POINTS GOING FORWARD**
 
 This script was produced in 2018 as part of a summer studentship supervised by Dr. Jonas Linder and Prof. Frank Krauss at the [IPPP](https://www.ippp.dur.ac.uk/).
 
