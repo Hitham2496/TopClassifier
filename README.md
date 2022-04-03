@@ -1,5 +1,5 @@
 # TopClassifier
-### Unsupervised Machine Learning to Classify LHC Jets Originating from Top Quark Decays
+### Unsupervised Machine Learning to Classify LHC Jets from Top Quark Decays
 
 **PLEASE SCROLL TO [Learning Points](https://github.com/Hitham2496/TopClassifier#learning-points) BOTTOM FOR POINTS GOING FORWARD**
 
